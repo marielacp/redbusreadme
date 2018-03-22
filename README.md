@@ -29,8 +29,8 @@
 ![Imagenes](img/plantllabechmarking.jpg) 
 
 
-#### MODELO CANVAS.
-![Imagenes](canvas.jpg) 
+#### PROTOTIPO.
+![Imagenes](img/PLANTILLATIKET.png) 
 
 
 #### MODELO AFFINITY MAP.
