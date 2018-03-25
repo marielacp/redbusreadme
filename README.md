@@ -7,11 +7,6 @@
 ## Objetivo
 - Maquetar y dar funcionalidad a una página responsiva de confirmación de la pasarela Pago Efectivo, la página brindara mayor conversión a las ventas realizadas en Pago Efectivo y Banca Online.
 
-## Proceso de Diseño
-
-![image](https://user-images.githubusercontent.com/32305619/37770646-16dbf7ce-2da3-11e8-91aa-2f6ffc3725be.png)
-
-
 ### Planeamiento
 ### Stakeholders
 - CEO.
@@ -21,7 +16,7 @@
 - Departamento de finanzas.
 - Principal-Usuarios.
 
-## Descubrimiento.
+## Investigación.
 ## Research
 ### BenchMarking
 - Queda claro que RedBus tiene muchos competidores que al mismo tiempo, llegan a ser sus socios estratégicos, detallo gráfica.
