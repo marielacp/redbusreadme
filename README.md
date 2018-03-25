@@ -36,6 +36,8 @@
 
 ![Imagenes](img/comparativasRedBusvsOltursa.jpg) 
 
+Red Bus inicia sus ventas de pasaje Online en 2016, no tiene mucho tiempo en la red, sin embargo está ocupando los primeros lugares de búsquedas de pasajes online, y tiende a seguir subiendo. Según las estadísticas de Google Trends, Red Bus en comparación con la agencia de transporte turística Oltursa(tomada al azar), en el año  2017, mostro una mayor venta de pasajes online, en diferentes provincias de Perú.
+
 #### Prototipo.
 ![Imagenes](img/PLANTILLATIKET.png) 
 
