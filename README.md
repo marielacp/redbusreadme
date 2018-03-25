@@ -28,8 +28,15 @@
 
 ![Imagenes](img/plantllabechmarking.jpg) 
 
+#### Estadísticas según Google Trends.
 
-#### PROTOTIPO.
+![Imagenes](img/estadisticaRedBus.png) 
+
+![Imagenes](img/estadisticaRedBusvsOltursa.png) 
+
+![Imagenes](img/comparativasRedBusvsOltursa.jpg) 
+
+#### Prototipo.
 ![Imagenes](img/PLANTILLATIKET.png) 
 
 
@@ -44,6 +51,10 @@
 
 
 ### IDEACION
+
+#### USER FLOW
+![Imagenes](userpersona1.png) 
+
 ### 1ER PROTOTIPO.
 ![Imagenes](sketches1.png) 
 
@@ -54,7 +65,7 @@
 ### TESTEO.
 
 ### PROTOTIPO
-https://marvelapp.com/14gdic76/screen/39992875
+
 
 
 
