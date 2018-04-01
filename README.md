@@ -50,35 +50,16 @@ http://techcetera.co/las-grandes-empresas-apuestan-por-invertir-en-ux/
 ![Imagenes](img/easyjets.png) 
 
 #### Prototipo.
-#### Prototipo.
 ![Imagenes](img/PLANTILLATIKET.png) 
-
-
-#### MODELO AFFINITY MAP.
-![Imagenes](affinityMap1.jpg) 
-
-#### MODELO PROBLEM STATEMENT.
-![Imagenes](problemstatement1.jpg) 
-
-#### USER PERSONA
-![Imagenes](userpersona1.png) 
-
 
 ### IDEACION
 
 #### USER FLOW
 ![Imagenes](userpersona1.png) 
 
-### 1ER PROTOTIPO.
-![Imagenes](sketches1.png) 
-
-
 ### Storytelling
 ![Imagenes](historia.png) 
 
-### TESTEO.
-
-### PROTOTIPO
 
 
 
