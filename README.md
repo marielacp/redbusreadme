@@ -50,10 +50,10 @@ http://techcetera.co/las-grandes-empresas-apuestan-por-invertir-en-ux/
 ![Imagenes](img/easyjets.png) 
 
 #### Prototipo DESKTOP.
-![plantillatiket](https://user-images.githubusercontent.com/32305619/38174735-a312dcde-3597-11e8-875a-c363e20019c7.png)
+![plantillatiket](https://user-images.githubusercontent.com/32305619/38174979-e7eb91a4-359a-11e8-9713-b6408a3c0de6.png)
 
 #### Prototipo MOBILE.
-![mobile](https://user-images.githubusercontent.com/32305619/38174729-90ac6128-3597-11e8-8c93-c301852cba53.png)
+![mobile](https://user-images.githubusercontent.com/32305619/38174974-d9bc065e-359a-11e8-8829-b8e411ca7733.png)
 
 #### Prototipo Desktop Marvellapp.
 https://marvelapp.com/3bi6j70/screen/40521065
