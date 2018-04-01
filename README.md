@@ -50,9 +50,11 @@ http://techcetera.co/las-grandes-empresas-apuestan-por-invertir-en-ux/
 ![Imagenes](img/easyjets.png) 
 
 #### Prototipo DESKTOP.
-![tiketdeskp](https://user-images.githubusercontent.com/32305619/38170679-181bfc1e-3551-11e8-83db-a4f2edc36958.png)
+![desktop](https://user-images.githubusercontent.com/32305619/38171495-4c9ccf7c-3560-11e8-94a4-09bc262561d8.png)
+
 #### Prototipo MOBILE.
-![tiketmobile](https://user-images.githubusercontent.com/32305619/38170702-84919dcc-3551-11e8-8017-64291c9edc4d.png)
+![mobile](https://user-images.githubusercontent.com/32305619/38171499-62baec26-3560-11e8-87a4-5bf467e03e23.png)
+
 
 ### IDEACION
 
